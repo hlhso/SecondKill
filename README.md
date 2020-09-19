@@ -68,6 +68,8 @@
 * web框架:iris
 * 消息队列:nsq
 * 数据库:mysql
+* 数据库操作框架:gorm
+* 配置管理:ini
 * cookie加密:aes cbc模式
 * 一致性hash算法实现分布式验证
 * 虚拟节点实现负载均衡
