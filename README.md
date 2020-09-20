@@ -63,13 +63,13 @@
 　　　└── user<br>
 　　　　├── login.html<br>
 　　　　└── register.html<br>
-# 基本组件
+# 基本组成
 * 前端框架:后台管理beagle 电商系统namira
-* web框架:iris
+* web框架:iris mvc结构
 * 消息队列:nsq
 * 数据库:mysql
 * 数据库操作框架:gorm
 * 配置管理:ini
 * cookie加密:aes cbc模式
 * 一致性hash算法和虚拟节点实现分布式验证
-
+* go module包管理
