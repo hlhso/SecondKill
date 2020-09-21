@@ -1,5 +1,7 @@
 # SecondKill
 **基于nsq的分布式秒杀系统**
+# 流程图
+![avatar](https://raw.githubusercontent.com/hlhso/SecondKill/master/%E5%9B%BE%E7%89%8720200921235817.png)
 # 文件目录（部分前端文件夹压缩了）
 .<br>
 ├── backend<br>
